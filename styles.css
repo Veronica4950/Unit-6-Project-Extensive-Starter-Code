@@ -1,0 +1,80 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: gold;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+    background-color: green;
+    border-style: dotted;
+    color: blue;
+}
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.female {
+    width: 400px;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+    background-color: green;
+    border-style: dotted;
+    color: blue;
+
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+}
+
+.money {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.Scene2 {
+    display: flex;
+    justify-content: center;
+}
+
+.wallet{
+height: 350px;
+    width: 300px;
+}
